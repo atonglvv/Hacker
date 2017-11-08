@@ -1,0 +1,10 @@
+当实例化子类时会递归调用父类中的构造方法
+
+Java不使用stop方法停止线程：
+    1.stop方法是过时的
+    2.stop方法会导致代码逻辑不完整。stop方法是一种"恶意" 的中断,一旦执行stop    方法,即终止当前正在运行的线程,不管线程逻辑是否完整,这是非常危险的.
+
+SimpleDateFormat是线程不安全
+
+ConcurrentHashMap 使用segment来分段和管理锁，segment继承自ReentrantLock，因此ConcurrentHashMap使用ReentrantLock来保证线程安全
+
