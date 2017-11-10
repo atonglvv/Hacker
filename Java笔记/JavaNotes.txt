@@ -8,3 +8,6 @@ SimpleDateFormat是线程不安全
 
 ConcurrentHashMap 使用segment来分段和管理锁，segment继承自ReentrantLock，因此ConcurrentHashMap使用ReentrantLock来保证线程安全
 
+形式参数(形参)可被视为local variable。形参跟局部变量一样都不能离开方法。都只有在方法内才会发生作用，也只有在方法中使用，不会再方法外可见。
+形参只能被final修饰
+
