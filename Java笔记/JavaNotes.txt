@@ -13,5 +13,8 @@ ConcurrentHashMap 使用segment来分段和管理锁，segment继承自ReentrantLock，因此Con
 
 实现接口必须实现接口的所有方法
 
+protected 可以被同一包中的所有类访问，可以被所有子类访问
+缺省 只能被同一包中的所有类访问
+
 
 
