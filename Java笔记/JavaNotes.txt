@@ -16,5 +16,15 @@ ConcurrentHashMap 使用segment来分段和管理锁，segment继承自ReentrantLock，因此Con
 protected 可以被同一包中的所有类访问，可以被所有子类访问
 缺省 只能被同一包中的所有类访问
 
+HashMap 键 值 都可为空
+
+接口方法的访问权限默认都是public
+
+Java中的变量和基本类型的值存放于栈内存，而new出来的对象本身存放在堆内存中，指向对象的引用存放在栈内存。
+
+
+
+
+
 
 
