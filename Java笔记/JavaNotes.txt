@@ -28,6 +28,12 @@ Servlet是线程不安全的，在Servlet类中可能会定义共享的类变量，这样在并发的多线程访
 
 JVM可通过ClassLoader寻找和装载class文件
 
+Java语言提供了八种基本类型（原始类型/primitive type）。六种数字类型（四个整型，两个浮点型），一种字符类型，还有一种布尔型。byte,short,int,long,float,double,char,boolean
+
+处理异常通常两种方式：
+1.try...catch(捕获处理机制)
+2.throws(冒泡处理机制 抛出)
+
 
 
 
