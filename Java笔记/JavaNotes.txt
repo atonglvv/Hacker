@@ -34,6 +34,13 @@ JavaÓïÑÔÌá¹©ÁË°ËÖÖ»ù±¾ÀàÐÍ£¨Ô­Ê¼ÀàÐÍ/primitive type£©¡£ÁùÖÖÊý×ÖÀàÐÍ£¨ËÄ¸öÕûÐÍ£¬Á
 1.try...catch(²¶»ñ´¦Àí»úÖÆ)
 2.throws(Ã°ÅÝ´¦Àí»úÖÆ Å×³ö)
 
+jar      ½«Ðí¶àÎÄ¼þ×éºÏ³ÉÒ»¸öjarÎÄ¼þ
+javac    ±àÒë
+javah    °ÑJava´úÂëÉùÃ÷µÄJNI·½·¨×ª»¯³ÉC\C++Í·ÎÄ¼þ
+javadoc  ´Ó³ÌÐòÔ´´úÂëÖÐ³éÈ¡Àà¡¢·½·¨¡¢³ÉÔ±µÈ×¢ÊÍÐÎ³ÉÒ»¸öºÍÔ´´úÂëÅäÌ×µÄAPI°ïÖúÎÄµµ
+
+
+
 
 
 
