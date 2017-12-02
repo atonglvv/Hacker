@@ -74,6 +74,7 @@ Java程序是从main方法开始执行的，public为类加载器提供入口，然后找到public类中的ma
 
 编译器将Java源代码编译成字节码class文件 类加载到JVM里面后，执行引擎把字节码转为可执行代码。执行的过程，再把可执行代码转为机器码，由底层的操作系统完成执行。
 
+在try-catch-finally中，finally中如果有return语句，则会覆盖try块和catch块中的return语句。
 
 
 
