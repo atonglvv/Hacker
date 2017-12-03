@@ -76,6 +76,8 @@ Java程序是从main方法开始执行的，public为类加载器提供入口，然后找到public类中的ma
 
 在try-catch-finally中，finally中如果有return语句，则会覆盖try块和catch块中的return语句。
 
+switch 支持int及以下(char,short,byte),String,Enum. String 类型是Java7开始支持的
+
 
 
 
