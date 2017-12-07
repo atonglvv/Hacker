@@ -101,6 +101,12 @@ java中的接口支持多继承，即一个子接口可以有多个父接口。接口的作用是用来扩展对象的
 构造函数必须与类名同名，而且不能有返回类型。而方法是可以与类名同名的，但是必须声明返回数据类型。
 
 
+根类 Object 的方法：equals() getClass() hasCode() notify() notifyAll() toString() wait()
+
+
+
+
+
 
 
 
