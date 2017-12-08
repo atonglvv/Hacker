@@ -104,6 +104,13 @@ java中的接口支持多继承，即一个子接口可以有多个父接口。接口的作用是用来扩展对象的
 根类 Object 的方法：equals() getClass() hasCode() notify() notifyAll() toString() wait()
 
 
+HashSet子类依靠 hashCode(),equals()方法区分重复元素
+HashSet添加元素，首先比较hash值，如果没有相同的hash-->添加，如果有相同的hash则比较equals如果不同则添加，否则不添加。
+
+
+
+
+
 
 
 
