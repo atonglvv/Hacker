@@ -214,6 +214,12 @@ Thread.Sleep(0)的作用是“触发操作系统立刻重新进行一次CPU竞争”。
 
 
 
+Java异常都继承自类Throwable，Throwable子类有Error和Exception，其中Exception又分为运行时异常和编译时异常。编译时异常是未雨绸缪性质的异常，是防范，需要显示处理。运行时异常是程序员问题造成，并不强制进行显示处理。
+
+
+
+
+
 
 
 
