@@ -234,6 +234,21 @@ JVM µÄÖ÷Òª¹¤×÷ÊÇ½âÊÍ×Ô¼ºµÄÖ¸Áî¼¯£¨¼´×Ö½ÚÂë£©²¢Ó³Éäµ½±¾µØµÄ CPU µÄÖ¸Áî¼¯»ò OS µÄÏ
 
 
 
+±ê×¼ASCIIÖ»Ê¹ÓÃ7¸öbit£¬À©Õ¹µÄASCIIÊ¹ÓÃ8¸öbit¡£
+
+
+
+hashcodeºÍequalsµÄÔ¼¶¨¹ØÏµÈçÏÂ£º
+
+1¡¢Èç¹ûÁ½¸ö¶ÔÏóÏàµÈ£¬ÄÇÃ´ËûÃÇÒ»¶¨ÓÐÏàÍ¬µÄ¹þÏ£Öµ£¨hash code£©¡£
+
+2¡¢Èç¹ûÁ½¸ö¶ÔÏóµÄ¹þÏ£ÖµÏàµÈ£¬ÄÇÃ´ÕâÁ½¸ö¶ÔÏóÓÐ¿ÉÄÜÏàµÈÒ²ÓÐ¿ÉÄÜ²»ÏàµÈ¡££¨ÐèÒªÔÙÍ¨¹ýequalsÀ´ÅÐ¶Ï£©
+
+
+
+
+
+
 
 
 
